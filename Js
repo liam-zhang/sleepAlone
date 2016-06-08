@@ -1,0 +1,5 @@
+(function(){
+
+  console.log("This Programmer executing at once")
+  
+}())
